@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="./header.gif"
+    src="./assests/header.svg"
     width="100%"
     alt="Progracolite — System Online"
   />
