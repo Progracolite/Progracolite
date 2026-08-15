@@ -1,13 +1,26 @@
-## Hi there!
+<!-- ========================= -->
+<!--        HEADER             -->
+<!-- ========================= -->
 
 <p align="center">
-  <img src="./assets/header.svg" width="100%">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=320&section=header&text=PROGRACOLITE&fontSize=52&fontColor=F0F6FC&fontAlign=10&fontAlignY=45&desc=SOFTWARE%20%2F%20SYSTEMS%20%2F%20AI&descSize=20&descAlign=10&descAlignY=62&descColor=58A6FF"
+    width="100%"
+  />
 </p>
 
 <p align="center">
   <code>BUILD → BREAK → UNDERSTAND → REBUILD</code>
 </p>
-## ⚡ CURRENT OPERATIONS
+
+<br>
+
+
+<!-- ========================= -->
+<!--    CURRENT OPERATIONS      -->
+<!-- ========================= -->
+
+<h2>⚡ CURRENT OPERATIONS</h2>
 
 <p align="center">
   <sub>Things I'm actually building, breaking, and rebuilding.</sub>
@@ -15,43 +28,50 @@
 
 <br>
 
-| 🍳 **RecipeStash** | 🕵️ **Dark Pattern Detector** |
+| `01` // **RECIPESTASH** | `02` // **DARK PATTERN DETECTOR** |
 |:---|:---|
-| Full-stack recipe platform built with React, Django REST Framework and PostgreSQL. | Browser-based project focused on detecting manipulative UI/UX patterns. |
-| `React` `Django` `DRF` `PostgreSQL` | `HTML` `CSS` `JavaScript` |
-| [**→ VIEW REPOSITORY**](https://github.com/Progracolite/RecipeStash) | [**→ VIEW REPOSITORY**](https://github.com/Progracolite/Dark-Pattern-Detector) |
+| **FULL-STACK RECIPE PLATFORM**<br><br>React frontend + Django REST backend built around authentication, private data and PostgreSQL persistence.<br><br>`REACT` `DJANGO` `DRF` `POSTGRESQL`<br><br>**→ [OPEN PROJECT](https://github.com/Progracolite/RecipeStash)** | **UI / UX MANIPULATION DETECTION**<br><br>Browser-based project focused on identifying manipulative interface patterns and deceptive UX.<br><br>`HTML` `CSS` `JAVASCRIPT`<br><br>**→ [OPEN PROJECT](https://github.com/Progracolite/Dark-Pattern-Detector)** |
 
-| 🎓 **My University Hub** | 🧪 **More Experiments** |
+| `03` // **MY UNIVERSITY HUB** | `04` // **EXPERIMENTS** |
 |:---|:---|
-| Student-focused web project built around university resources and information. | Smaller projects, experiments and things I'm building while learning. |
-| `Web` `Students` `Product` | `Experiments` `Learning` `Building` |
-| [**→ VIEW REPOSITORY**](https://github.com/Progracolite/my-university-hub) | [**→ EXPLORE PROJECTS**](https://github.com/Progracolite?tab=repositories) |
+| **STUDENT-FOCUSED WEB PLATFORM**<br><br>Web project built around university resources and information for students.<br><br>`WEB` `STUDENTS` `PRODUCT`<br><br>**→ [OPEN PROJECT](https://github.com/Progracolite/my-university-hub)** | **SMALL BUILDS / EXPERIMENTS**<br><br>Smaller projects and experiments created while exploring new technologies and ideas.<br><br>`EXPERIMENTS` `LEARNING` `BUILDING`<br><br>**→ [EXPLORE ALL](https://github.com/Progracolite?tab=repositories)** |
 
 <br>
 
 
+<!-- ========================= -->
+<!--          TOOLKIT          -->
+<!-- ========================= -->
+
 <h2 align="center">🧰 TOOLKIT</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,react,django,postgresql,mysql,git,github,linux&perline=7" />
+  <img
+    src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,react,django,postgres,mysql,git,github,linux&perline=7"
+  />
 </p>
 
 <p align="center">
   <code>BACKEND</code>
-  &nbsp;·&nbsp;
+  ·
   <code>FULL STACK</code>
-  &nbsp;·&nbsp;
+  ·
   <code>SYSTEMS</code>
-  &nbsp;·&nbsp;
+  ·
   <code>AI / ML</code>
 </p>
 
 <br>
 
+
+<!-- ========================= -->
+<!--      BUILD PHILOSOPHY     -->
+<!-- ========================= -->
+
 <h2 align="center">⚙️ BUILD PHILOSOPHY</h2>
 
 <p align="center">
-  <b>BUILD → BREAK → UNDERSTAND → REBUILD</b>
+  <strong>BUILD → BREAK → UNDERSTAND → REBUILD</strong>
 </p>
 
 <p align="center">
@@ -60,14 +80,16 @@
   and building them better.
 </p>
 
-</tr>
-</table>
-
 <br>
 
-<br>
 
-## 📡 GITHUB TELEMETRY
+<!-- ========================= -->
+<!--      GITHUB TELEMETRY     -->
+<!-- ========================= -->
+
+<h2>📡 GITHUB TELEMETRY</h2>
+
+<br>
 
 <p align="center">
   <img
@@ -80,11 +102,7 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Progracolite&theme=github-dark-blue&hide_border=true"
-  />
-</p>
+<br>
 
 <p align="center">
   <img
@@ -93,3 +111,68 @@
   />
 </p>
 
+<br>
+
+
+<!-- ========================= -->
+<!--    CURRENTLY EXPLORING    -->
+<!-- ========================= -->
+
+<h2>🧠 CURRENTLY EXPLORING</h2>
+
+<p align="center">
+  <sub>Things I'm actively learning, experimenting with, and trying to understand.</sub>
+</p>
+
+<br>
+
+| AREA | FOCUS |
+|:---|:---|
+| 🤖 **AI / ML** | Learning the foundations and experimenting with practical applications |
+| ⚙️ **SYSTEMS** | C++, low-level concepts, architecture and how software works underneath |
+| 🌐 **BACKEND** | APIs, authentication, databases and scalable application design |
+| ☁️ **CLOUD / DEVOPS** | Deployment, infrastructure and making projects actually production-ready |
+
+<br>
+
+<p align="center">
+  <code>LEARN</code>
+  →
+  <code>BUILD</code>
+  →
+  <code>BREAK</code>
+  →
+  <code>UNDERSTAND</code>
+  →
+  <code>REPEAT</code>
+</p>
+
+<br>
+
+
+<!-- ========================= -->
+<!--          CONNECT          -->
+<!-- ========================= -->
+
+---
+
+<p align="center">
+  <a href="https://github.com/Progracolite">
+    <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+
+<!-- ========================= -->
+<!--           FOOTER          -->
+<!-- ========================= -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&section=footer&text=BUILD%20SOMETHING%20WORTH%20BREAKING&fontColor=58A6FF&fontSize=18&fontAlignY=55"
+    width="100%"
+  />
+</p>
