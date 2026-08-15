@@ -4,10 +4,14 @@
 
 <p align="center">
   <img
-    src="./progracolite_animated_header.gif"
+    src="./header.gif"
     width="100%"
     alt="Progracolite — System Online"
   />
+</p>
+
+<p align="center">
+  <code>BUILD → BREAK → UNDERSTAND → REBUILD</code>
 </p>
 
 <p align="center">
