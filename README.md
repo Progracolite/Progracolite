@@ -3,14 +3,16 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Progracolite — System Online">
+  <img
+    src="./progracolite_animated_header.gif"
+    width="100%"
+    alt="Progracolite — System Online"
+  />
 </p>
 
 <p align="center">
   <code>BUILD → BREAK → UNDERSTAND → REBUILD</code>
 </p>
-
-<br>
 
 
 <!-- ========================= -->
