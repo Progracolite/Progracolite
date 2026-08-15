@@ -3,10 +3,7 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=320&section=header&text=PROGRACOLITE&fontSize=52&fontColor=F0F6FC&fontAlign=10&fontAlignY=45&desc=SOFTWARE%20%2F%20SYSTEMS%20%2F%20AI&descSize=20&descAlign=10&descAlignY=62&descColor=58A6FF"
-    width="100%"
-  />
+  <img src="./assets/header.svg" width="100%" alt="Progracolite — System Online">
 </p>
 
 <p align="center">
