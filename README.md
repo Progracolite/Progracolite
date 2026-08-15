@@ -17,83 +17,103 @@
 <br>
 
 <table align="center">
-<tr>
+  <tr>
+    <td width="50%" valign="top">
 
-<td width="50%" valign="top">
+      <h3>🍳 RecipeStash</h3>
 
-### 🍳 RecipeStash
+      <p>
+        A full-stack recipe platform built around real users,
+        private data and a production backend.
+      </p>
 
-A full-stack recipe platform built around real user accounts, private data, and a production backend.
+      <p>
+        <code>React</code>
+        <code>Django</code>
+        <code>DRF</code>
+        <code>PostgreSQL</code>
+      </p>
 
-**Stack**
+      <p>
+        <a href="https://github.com/Progracolite/RecipeStash">
+          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-0d1117?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
 
-`React` `Django` `DRF` `PostgreSQL`
+    </td>
 
-**Focus**
+    <td width="50%" valign="top">
 
-`REST API` · `Authentication` · `Full Stack`
+      <h3>🕵️ Dark Pattern Detector</h3>
 
-<a href="https://github.com/Progracolite/RecipeStash">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-0d1117?style=for-the-badge&logo=github&logoColor=white">
-</a>
+      <p>
+        A browser-based project focused on identifying
+        manipulative UI and UX patterns.
+      </p>
 
-</td>
+      <p>
+        <code>HTML</code>
+        <code>CSS</code>
+        <code>JavaScript</code>
+      </p>
 
-<td width="50%" valign="top">
+      <p>
+        <a href="https://github.com/Progracolite/Dark-Pattern-Detector">
+          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-0d1117?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
 
-### 🕵️ Dark Pattern Detector
+    </td>
+  </tr>
 
-A browser-based project focused on identifying manipulative UI/UX patterns.
+  <tr>
+    <td width="50%" valign="top">
 
-**Stack**
+      <h3>🎓 My University Hub</h3>
 
-`HTML` `CSS` `JavaScript`
+      <p>
+        A student-focused web project designed around
+        university resources and information.
+      </p>
 
-**Focus**
+      <p>
+        <code>Web</code>
+        <code>Students</code>
+        <code>Product</code>
+      </p>
 
-`Web` · `UX` · `Detection`
+      <p>
+        <a href="https://github.com/Progracolite/my-university-hub">
+          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-0d1117?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
 
-<a href="https://github.com/Progracolite/Dark-Pattern-Detector">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-0d1117?style=for-the-badge&logo=github&logoColor=white">
-</a>
+    </td>
 
-</td>
+    <td width="50%" valign="top">
 
-</tr>
+      <h3>🧪 More Experiments</h3>
 
-<tr>
+      <p>
+        Smaller projects, experiments and things I'm building
+        while learning new technologies.
+      </p>
 
-<td width="50%" valign="top">
+      <p>
+        <code>Experiments</code>
+        <code>Learning</code>
+        <code>Building</code>
+      </p>
 
-### 🎓 My University Hub
+      <p>
+        <a href="https://github.com/Progracolite?tab=repositories">
+          <img src="https://img.shields.io/badge/EXPLORE_PROJECTS-0d1117?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
 
-A student-focused web project designed around university resources and information.
-
-**Stack**
-
-`Web Development`
-
-**Focus**
-
-`Students` · `Web` · `Product`
-
-<a href="https://github.com/Progracolite/my-university-hub">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-0d1117?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧪 More Experiments
-
-Smaller projects, experiments and things I'm using to learn by actually building.
-
-<a href="https://github.com/Progracolite?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-0d1117?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
+    </td>
+  </tr>
+</table>
 
 <br>
 
