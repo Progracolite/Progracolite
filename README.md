@@ -14,10 +14,6 @@
   <code>BUILD → BREAK → UNDERSTAND → REBUILD</code>
 </p>
 
-<p align="center">
-  <code>BUILD → BREAK → UNDERSTAND → REBUILD</code>
-</p>
-
 
 <!-- ========================= -->
 <!--    CURRENT OPERATIONS      -->
