@@ -44,7 +44,7 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,react,django,postgres,mysql,git,github,linux&perline=7"
+    src="https://skillicons.dev/icons?i=python,java,html,css,react,django,mysql,git,github,linux&perline=5"
   />
 </p>
 
@@ -117,34 +117,16 @@
 
 <h2>🧠 CURRENTLY EXPLORING</h2>
 
-<p align="center">
-  <sub>Things I'm actively learning, experimenting with, and trying to understand.</sub>
-</p>
-
+<center>
 <br>
 
 | AREA | FOCUS |
 |:---|:---|
 | 🤖 **AI / ML** | Learning the foundations and experimenting with practical applications |
 | ⚙️ **SYSTEMS** | C++, low-level concepts, architecture and how software works underneath |
-| 🌐 **BACKEND** | APIs, authentication, databases and scalable application design |
-| ☁️ **CLOUD / DEVOPS** | Deployment, infrastructure and making projects actually production-ready |
 
 <br>
-
-<p align="center">
-  <code>LEARN</code>
-  →
-  <code>BUILD</code>
-  →
-  <code>BREAK</code>
-  →
-  <code>UNDERSTAND</code>
-  →
-  <code>REPEAT</code>
-</p>
-
-<br>
+</center>
 
 
 <!-- ========================= -->
