@@ -5,8 +5,6 @@
 <p align="center">
   <img
     src="./assests/header.svg"
-    width="100%"
-    alt="Progracolite — System Online"
   />
 </p>
 
