@@ -1,19 +1,8 @@
-## Hi there 👋
+## Hi there!
 
-##
-┌───────────────────────────────────────────────┐
-│  ABEL JOSE                                    │
-├───────────────────────────────────────────────┤
-│                                               │
-│  ROLE       CS UNDERGRAD / BUILDER            │
-│  FOCUS      SYSTEMS · AI                      │
-│  STATUS     BUILDING                          │
-│                                               │
-├───────────────────────────────────────────────┤
-│  CURRENT OPERATIONS                           │
-│                                               │
-│  [01] RECIPE STASH       █████████░ 90%       |
-│                                               |
-│  [02] NEERKAVAL          ░░░░░░░░░░ 00%       │      │
-└───────────────────────────────────────────────┘
+## ABEL JOSE
+Software / Systems / AI
+
+CURRENT STATUS :: BUILDING
+
 
