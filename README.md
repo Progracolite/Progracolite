@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="./assests/header.svg"
+    src="./assets/header.svg"
   />
 </p>
 
