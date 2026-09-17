@@ -14,29 +14,6 @@
 
 
 <!-- ========================= -->
-<!--    CURRENT OPERATIONS      -->
-<!-- ========================= -->
-
-<h2>⚡ CURRENT OPERATIONS</h2>
-
-<p align="center">
-  <sub>Things I'm actually building, breaking, and rebuilding.</sub>
-</p>
-
-<br>
-
-| `01` // **RECIPESTASH** | `02` // **DARK PATTERN DETECTOR** |
-|:---|:---|
-| **FULL-STACK RECIPE PLATFORM**<br><br>React frontend + Django REST backend built around authentication, private data and PostgreSQL persistence.<br><br>`REACT` `DJANGO` `DRF` `POSTGRESQL`<br><br>**→ [OPEN PROJECT](https://github.com/Progracolite/RecipeStash)** | **UI / UX MANIPULATION DETECTION**<br><br>Browser-based project focused on identifying manipulative interface patterns and deceptive UX.<br><br>`HTML` `CSS` `JAVASCRIPT`<br><br>**→ [OPEN PROJECT](https://github.com/Progracolite/Dark-Pattern-Detector)** |
-
-| `03` // **MY UNIVERSITY HUB** | `04` // **EXPERIMENTS** |
-|:---|:---|
-| **STUDENT-FOCUSED WEB PLATFORM**<br><br>Web project built around university resources and information for students.<br><br>`WEB` `STUDENTS` `PRODUCT`<br><br>**→ [OPEN PROJECT](https://github.com/Progracolite/my-university-hub)** | **SMALL BUILDS / EXPERIMENTS**<br><br>Smaller projects and experiments created while exploring new technologies and ideas.<br><br>`EXPERIMENTS` `LEARNING` `BUILDING`<br><br>**→ [EXPLORE ALL](https://github.com/Progracolite?tab=repositories)** |
-
-<br>
-
-
-<!-- ========================= -->
 <!--          TOOLKIT          -->
 <!-- ========================= -->
 
