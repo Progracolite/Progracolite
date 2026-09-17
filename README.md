@@ -105,30 +105,3 @@
 <br>
 </center>
 
-
-<!-- ========================= -->
-<!--          CONNECT          -->
-<!-- ========================= -->
-
----
-
-<p align="center">
-  <a href="https://github.com/Progracolite">
-    <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/abeljos/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
-
-
-<!-- ========================= -->
-<!--           FOOTER          -->
-<!-- ========================= -->
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&section=footer&text=BUILD%20SOMETHING%20WORTH%20BREAKING&fontColor=58A6FF&fontSize=18&fontAlignY=55"
-    width="100%"
-  />
-</p>
