@@ -8,10 +8,23 @@
   />
 </p>
 
+<!-- ========================= -->
+<!--      BUILD PHILOSOPHY     -->
+<!-- ========================= -->
+
+<h2 align="center">⚙️ BUILD PHILOSOPHY</h2>
+
 <p align="center">
-  <code>BUILD → BREAK → UNDERSTAND → REBUILD</code>
+  <strong>BUILD → BREAK → UNDERSTAND → REBUILD</strong>
 </p>
 
+<p align="center">
+  I learn by turning ideas into systems,<br>
+  breaking them, understanding why they failed,<br>
+  and building them better.
+</p>
+
+<br>
 
 <!-- ========================= -->
 <!--          TOOLKIT          -->
@@ -33,25 +46,6 @@
   <code>SYSTEMS</code>
   ·
   <code>AI / ML</code>
-</p>
-
-<br>
-
-
-<!-- ========================= -->
-<!--      BUILD PHILOSOPHY     -->
-<!-- ========================= -->
-
-<h2 align="center">⚙️ BUILD PHILOSOPHY</h2>
-
-<p align="center">
-  <strong>BUILD → BREAK → UNDERSTAND → REBUILD</strong>
-</p>
-
-<p align="center">
-  I learn by turning ideas into systems,<br>
-  breaking them, understanding why they failed,<br>
-  and building them better.
 </p>
 
 <br>
